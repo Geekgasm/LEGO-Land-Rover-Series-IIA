@@ -3,7 +3,7 @@
 ![LEGO Land Rover](Land-Rover-Series-IIA-cover.jpg)
 
 ## Land Rover Type
-This is a LEGO MOC[1] of a early [Series IIA Land Rover](https://en.wikipedia.org/wiki/Land_Rover_Series#Series_IIA)[2] (ca. 1965).
+This is a LEGO MOC[1] of an early [Series IIA Land Rover](https://en.wikipedia.org/wiki/Land_Rover_Series#Series_IIA)[2] (ca. 1965).
 
 ## How To Use
 This project contains different files which allow you to either just build the model, or to use the source file of the 3D CAD model to modify it to your liking.
